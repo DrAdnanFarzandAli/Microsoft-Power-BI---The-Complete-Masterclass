@@ -6,16 +6,16 @@
 
 ## What you'll learn: Learn the complete workflow in Power BI from A to Z
 * Advanced analytics with DAX - calculated columns & measures
-* [All-in-One: Power BI Desktop, Power BI Cloud & Power BI Mobile!]
-* [Learn how to design and implement professional reports]
-* [Learn storytelling with data to visualize your data effectively]
-* [Advanced features such as working with parameters, using R scripts, optimizing performance]
-* [Row-Level Security]
-* [Performance optimizing]
-* [Storytelling with data]
-* [Python & R in Power BI]
-* [Forecasting & advanced analytics]
-* [Time intelligence]
+* All-in-One: Power BI Desktop, Power BI Cloud & Power BI Mobile!
+* Learn how to design and implement professional reports
+* Learn storytelling with data to visualize your data effectively
+* Advanced features such as working with parameters, using R scripts, optimizing performance
+* Row-Level Security
+* Performance optimizing
+* Storytelling with data
+* Python & R in Power BI
+* Forecasting & advanced analytics
+* Time intelligence
 
 ## Table of contents
 
