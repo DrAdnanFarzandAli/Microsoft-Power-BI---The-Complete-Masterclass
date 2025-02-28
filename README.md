@@ -1,12 +1,21 @@
 # Awesome Power BI
 
-![Power BI](https://github.com/NajiElKotob/Awesome-Power-BI/blob/master/Images/power-bi-logo.png)  
-:yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart:
+![Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi)  
 
-```sh
-It is so easy to start with Power BI, but hard to master it. 
-```
-"Microsoft's Power BI is a business analytics tool designed to provide users with comprehensive data analysis and visualization capabilities. It empowers organizations to connect to a wide array of data sources, ranging from simple Excel sheets to complex databases, and transform this data into interactive, insightful dashboards and reports."
+"Microsoft Power BI - The Complete Masterclass" is an in-depth course designed to help users master data analysis, visualization, and reporting using Power BI. It covers essential concepts such as data modeling, Power Query, and DAX functions, making it suitable for beginners and experienced professionals alike. The course provides hands-on exercises, real-world applications, and step-by-step guidance on creating interactive dashboards and insightful reports. Learners will gain skills in data transformation, connecting multiple sources, and optimizing reports for better decision-making. With a focus on practical implementation, this masterclass ensures users can leverage Power BI to analyze trends, forecast outcomes, and improve business intelligence strategies. Whether for personal growth or professional advancement, this course equips learners with the expertise needed to become proficient in Power BI, enabling them to unlock the full potential of their data."
+
+## What you'll learn: Learn the complete workflow in Power BI from A to Z
+* [Advanced analytics with DAX - calculated columns & measures]
+* [All-in-One: Power BI Desktop, Power BI Cloud & Power BI Mobile!]
+* [Learn how to design and implement professional reports]
+* [Learn storytelling with data to visualize your data effectively]
+* [Advanced features such as working with parameters, using R scripts, optimizing performance]
+* [Row-Level Security]
+* [Performance optimizing]
+* [Storytelling with data]
+* [Python & R in Power BI]
+* [Forecasting & advanced analytics]
+* [Time intelligence]
 
 ## Table of contents
 
