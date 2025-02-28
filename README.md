@@ -5,7 +5,7 @@
 ![Power BI](https://cdn.prod.website-files.com/60d07e744f068218f38db4c0/621764d6146dac8279995d22_Power-BI.jpg)
 
 ## What you'll learn: Learn the complete workflow in Power BI from A to Z
-* [Advanced analytics with DAX - calculated columns & measures]
+* Advanced analytics with DAX - calculated columns & measures
 * [All-in-One: Power BI Desktop, Power BI Cloud & Power BI Mobile!]
 * [Learn how to design and implement professional reports]
 * [Learn storytelling with data to visualize your data effectively]
