@@ -1,8 +1,8 @@
-# Awesome Power BI
-
-![Power BI](https://miro.medium.com/v2/resize:fit:640/1*Qs650GJ4uDa65D0iFn4YBw.jpeg)
+# Microsoft Power BI - The Complete Masterclass
 
 "Microsoft Power BI - The Complete Masterclass" is an in-depth course designed to help users master data analysis, visualization, and reporting using Power BI. It covers essential concepts such as data modeling, Power Query, and DAX functions, making it suitable for beginners and experienced professionals alike. The course provides hands-on exercises, real-world applications, and step-by-step guidance on creating interactive dashboards and insightful reports. Learners will gain skills in data transformation, connecting multiple sources, and optimizing reports for better decision-making. With a focus on practical implementation, this masterclass ensures users can leverage Power BI to analyze trends, forecast outcomes, and improve business intelligence strategies. Whether for personal growth or professional advancement, this course equips learners with the expertise needed to become proficient in Power BI, enabling them to unlock the full potential of their data."
+
+![Power BI](https://everydaymarketing.co/wp-content/uploads/2021/07/Power-BI-for-Marketing-and-SME.jpg)
 
 ## What you'll learn: Learn the complete workflow in Power BI from A to Z
 * [Advanced analytics with DAX - calculated columns & measures]
